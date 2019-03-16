@@ -1,4 +1,7 @@
 # Reconstructing-Big-Data-Statistics
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0bb4bb437a6b4ac6a2561863face63b9)](https://www.codacy.com/app/weslie0803/Reconstructing-Big-Data-Statistics?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lihangqi/Reconstructing-Big-Data-Statistics&amp;utm_campaign=Badge_Grade)
+
 **Alibaba Group 重构大数据统计**
 
 大数据的代码实现
