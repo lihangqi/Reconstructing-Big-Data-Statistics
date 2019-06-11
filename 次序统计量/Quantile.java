@@ -4,7 +4,7 @@ import java.util.TreeMap;
 
 public class Quantile{
 
-    public final class dataType;
+    public final static class dataType;
     public final int q;
     public Object[] item = null;
 
